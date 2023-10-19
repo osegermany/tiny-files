@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Tiny files hosting for OSEG
+Upstream-Contact: Robin Vobruba (Open Source Ecology Germany) <hoijui.quaero@gmail.com>
+Source: https://github.com/OSEGermany/tiny-files
+
+Files: res/media/img/*.svg
+Copyright:
+    2023 Robin Vobruba <hoijui.quaero@gmail.com>
+License: CC0-1.0
